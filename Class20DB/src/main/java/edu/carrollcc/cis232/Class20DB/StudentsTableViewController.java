@@ -4,5 +4,5 @@ import javafx.fxml.FXML;
 import javafx.scene.control.TableView;
 
 public class StudentsTableViewController {
-	 @FXML private TableView<?> table;
+	 @FXML private TableView table;
 }
